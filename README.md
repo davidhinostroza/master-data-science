@@ -1,4 +1,4 @@
 # master-data-science
-otro cmmit
+otro commit  
 Puedo poner mas cosas.
 Puedo poner *cursiva*, **negrita**
